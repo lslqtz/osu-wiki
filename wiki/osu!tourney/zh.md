@@ -94,7 +94,7 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 ![osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲](Spectator_Usage/Osutourneyspectate.png "osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲")
 
-![osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示](Osutourneyresults.png "osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示")
+![osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示](Spectator_Usage/Osutourneyresults.png "osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示")
 
 它将显示您需要遵循的多人房间命名模板。
 它由您在 `tournament.cfg` 里定义的比赛缩写和 2 个团队名称组成。
@@ -105,7 +105,7 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 当谱面结束后，osu!tourney 将给获胜队伍加一颗星以增加队伍得分。
 **您还可以通过左键单击以增加得分，右键反之。**
 
-![使用自定义信息的 osu!tourney](Osutourneywarmup.png "使用自定义信息的 osu!tourney")
+![使用自定义信息的 osu!tourney](Spectator_Usage/Osutourneywarmup.png "使用自定义信息的 osu!tourney")
 
 如果要显示自定义信息，可以单击 annotation 按钮来切换。
 当处于激活状态时，相应信息将显示在屏幕顶部，谱面结束后的得分将保持不变。
@@ -150,7 +150,7 @@ osu!tourney 客户端将成功识别房间。
 正如 **使用 osu!tourney** 所述，客户端的每个窗口都分配给相应位置的格子。
 根据您在 `TeamSize` 中定义的值，左侧的队伍会被被分配前面的格子，右侧的队伍会紧跟其后被分配到后面的格子。
 
-![osu!tourney 玩家分配](Osutourneyassignment.png "osu!tourney 玩家分配")
+![osu!tourney 玩家分配](Multiplayer_Usage/Osutourneyassignment.png "osu!tourney 玩家分配")
 
 _相应的格子在 osu!tourney 对应到的窗口_
 
@@ -167,23 +167,23 @@ _相应的格子在 osu!tourney 对应到的窗口_
 
 为了让每个玩家都能在 osu!tourney 的正确队伍内进行，玩家必须占据多人房间内的正确位置。以下是不同团队规模的 osu!tourney 的图片，屏幕上的数字表示多人房间里为玩家分配的格子，这些数字在 osu!tourney 中是不可见的，仅仅是因为描述而放在这里。
 
-![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")
+![TeamSize = 4](Multiplayer_Usage/Osutourneywindows.png "TeamSize = 4")
 
 ---
 
-![TeamSize = 3](Teamsize3.png "TeamSize = 3")
+![TeamSize = 3](Multiplayer_Usage/Teamsize3.png "TeamSize = 3")
 
 ---
 
-![TeamSize = 2](Teamsize2.png "TeamSize = 2")
+![TeamSize = 2](Multiplayer_Usage/Teamsize2.png "TeamSize = 2")
 
 ---
 
-![TeamSize = 1](Teamsize1.png "TeamSize = 1")
+![TeamSize = 1](Multiplayer_Usage/Teamsize1.png "TeamSize = 1")
 
 ### 皮肤
 
-![osu!tourney 可以以各种方式定制](Osutourneycustom.png "osu!tourney 可以以各种方式定制")
+![osu!tourney 可以以各种方式定制](Skinning/Osutourneycustom.png "osu!tourney 可以以各种方式定制")
 
 osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用适合您的比赛的客户端。
 为此，您需要在您的 osu!tourney 目录下创建 `Skin` 文件夹。
@@ -202,7 +202,7 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 - `tourney-title` (可选) - 这个图片会放在您的背景元素的顶部，并会放在您的 osu!tourney 屏幕的底部。
    这可以用于放置静态图像，例如您的比赛标志。
 
-![osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png](Osutourneyicons.png "osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png")
+![osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png](Skinning/Osutourneyicons.png "osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png")
 
 您可以在皮肤文件夹创建您的团队图标(国家图标或玩家头像)。
 这些图标必须放置在该路径：`/osu!/Skins/User/tournament/icons`.
