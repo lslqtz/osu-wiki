@@ -63,7 +63,7 @@ osu!tourney 客户端只支持已经提交的谱面。
 
 ### 使用 osu!tourney
 
-![osu!tourney 界面](Osutourneymain.png "osu!tourney 界面")
+![osu!tourney 界面](Spectator_Usage/Osutourneymain.png "osu!tourney 界面")
 
 _osu!tourney 客户端的基本界面_
 
@@ -73,7 +73,7 @@ _osu!tourney 客户端的基本界面_
 
 ---
 
-![osu!tourney 玩家窗口](Osutourneywindows.png "osu!tourney 玩家窗口")
+![osu!tourney 玩家窗口](Spectator_Usage/Osutourneywindows.png "osu!tourney 玩家窗口")
 
 _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
@@ -84,15 +84,15 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 ---
 
-![osu!tourney 控制面板](Osutourneypanel.png "osu!tourney 控制面板")
+![osu!tourney 控制面板](Spectator_Usage/Osutourneypanel.png "osu!tourney 控制面板")
 
 ---
 
-![当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息](Osutourneyroomlist.png "当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息")
+![当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息](Spectator_Usage/Osutourneyroomlist.png "当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息")
 
-![osu!tourney 自动显示队名和用户名](Osutourneyidle.png "osu!tourney 自动显示队名和用户名")
+![osu!tourney 自动显示队名和用户名](Spectator_Usage/Osutourneyidle.png "osu!tourney 自动显示队名和用户名")
 
-![osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲](Osutourneyspectate.png "osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲")
+![osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲](Spectator_Usage/Osutourneyspectate.png "osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲")
 
 ![osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示](Osutourneyresults.png "osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示")
 
